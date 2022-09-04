@@ -1,0 +1,44 @@
+
+.main-container{
+    background-color: rgb(35, 88, 78);
+    
+}
+.main-heading{
+    margin-top: 200px;
+
+}
+.btn-but-ticket{
+    color: white;
+    text-decoration: none;
+}
+.main-heading > h1{
+    color: #fff;
+   /*  margin-left: 40px; */
+    font-size: larger;
+font-weight: bolder;
+}
+.button--1{
+    color: #fff;
+}
+.main-heading > h1 {
+    color: #fff;
+    font-size: 60px;
+   
+  }
+
+  .main-heading > p {
+   /*  margin-left: 40px; */
+    margin-top: 8px;
+    color: #fff;
+    font-size: 32px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+      'Lucida Sans', Arial, sans-serif;
+  }
+.home-image{
+    margin-top: 100px;
+    margin-left: -30px;
+}
+ .btn--button{
+    margin-left: 40px;
+}
+

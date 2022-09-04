@@ -1,0 +1,101 @@
+.accordion {
+    text-align: left;
+  }
+  
+  .accordion-item {
+    border-radius: 0.4rem;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    box-shadow: 0.5rem 2px 0.5rem rgba(0, 0, 0, 0.1);
+  }
+  .main-main-main{
+    
+    text-align: center;
+  }
+  
+  .accordion-link {
+    font-size: 1.2rem;
+    color: rgba(201, 25, 25, 0.8);
+    text-decoration: none;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .accordion-link .fa-minus {
+    display: none;
+  }
+  
+  .answer {
+    max-height: 0;
+    position: relative;
+    overflow: hidden;
+    font-size: 1rem;
+    transition: max-height 650ms;
+  }
+  
+  .answer::before {
+    content: "";
+    position: absolute;
+    width: 0.6rem;
+    background-color: #8fc460;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+  }
+  .my-container {
+    margin-bottom: 30px;
+  }
+  .answer p {
+    font-size: 1rem;
+    padding: 1rem;
+  }
+  
+  .accordion-item:target .answer {
+    max-height: 10rem;
+  }
+  
+  .accordion-item:target .accordion-link .fa-plus {
+    display: none;
+  }
+  
+  .accordion-item:target .accordion-link .fa-minus {
+    display: block;
+  }
+  .main--btn{
+    background-color: rgb(35, 88, 78);
+    color: white;
+    
+}
+.accordion-link{
+    color: rgb(244, 238, 166);
+}
+
+.main--btn>h2{
+    font-size: 40px;
+}
+.background-color{
+    background-color: rgb(35, 88, 78);
+}
+
+  .space {
+    padding-bottom: 150px;
+  }
+.accordion-item{
+    background-color: #387f83;
+    font-weight: 700;
+    color: rgb(224, 156, 156);
+}
+  p.accordion {
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+    margin-bottom: 10px;
+  }
