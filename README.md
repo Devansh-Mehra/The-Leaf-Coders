@@ -13,3 +13,6 @@ also we have stored the data using the IPFS and pinata storage. We have integrat
 ![home](https://user-images.githubusercontent.com/81522384/188301215-00cbcbc9-7824-4b68-a1e2-bcf8006795c7.png)
 
 ![2](https://user-images.githubusercontent.com/81522384/188301300-53189dea-a9e5-497a-a7e8-58e830af4a88.png)
+![3](https://user-images.githubusercontent.com/81522384/188301333-101e5cf0-4c92-4a80-9254-1bc64f5597e3.png)
+![5](https://user-images.githubusercontent.com/81522384/188301338-16f20913-33fa-46f6-983b-b04b76b50fc2.png)
+![-6](https://user-images.githubusercontent.com/81522384/188301343-855f622f-fe91-4269-8119-a69a19eb749a.png)
