@@ -11,7 +11,7 @@ We take the real ticket and mint it as NFT and deploy it on Polygon Blockchain u
 also we have stored the data using the IPFS and pinata storage. We have integrated metamask for decentralized transactions.
 
 ## Technology Used
-JavaScript, React.JS, Solidity, HTML, CSS, Filecoin, Ethereum
+JavaScript, React.JS, Solidity, HTML, CSS, Filecoin, Ethereum, IPFS(Inter Planetary File System)
 
 ![home](https://user-images.githubusercontent.com/81522384/188301215-00cbcbc9-7824-4b68-a1e2-bcf8006795c7.png)
 
